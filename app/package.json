@@ -33,7 +33,7 @@
     "ical-expander": "^2.0.0",
     "ical.js": "^1.3.0",
     "immutable": "^3.8.2",
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "jasmine-json": "~0.0",
     "jasmine-react-helpers": "^0.2",
     "jasmine-reporters": "1.x.x",
@@ -43,9 +43,9 @@
     "lru-cache": "^4.0.1",
     "mammoth": "1.4.19",
     "mkdirp": "^0.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-round": "^1.0.1",
-    "moment-timezone": "^0.5.32",
+    "moment-timezone": "^0.5.35",
     "mousetrap": "^1.5.3",
     "node-emoji": "^1.2.1",
     "node-fetch": "^2.6.0",
@@ -60,7 +60,7 @@
     "react-transition-group": "1.2.1",
     "reflux": "0.1.13",
     "rimraf": "2.5.2",
-    "rtlcss": "2.4.0",
+    "rtlcss": "4.1.1",
     "rx-lite": "4.0.8",
     "slate": "github:bengotow/slate#cd6f40e8",
     "slate-auto-replace": "0.12.1",
@@ -82,7 +82,7 @@
     "vcf": "^2.0.5",
     "windows-iana": "^4.2.1",
     "windows-shortcuts": "emorikawa/windows-shortcuts#b0a0fc7",
-    "xlsx": "0.14.1"
+    "xlsx": "0.18.5"
   },
   "optionalDependencies": {
     "macos-notification-state": "^1.3.6",
